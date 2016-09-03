@@ -1,4 +1,6 @@
 
+#format of contacts file
+#firstName,lastName,primaryNumber,secondaryNumber (optional)
 
 ex = open("contacts.txt").read()
 loadcont = ex.split("\n")
