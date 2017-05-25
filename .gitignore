@@ -1,3 +1,4 @@
 *.py
+trust/*
 Compilers/*
 sheets/pw.txt
