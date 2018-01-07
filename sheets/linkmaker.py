@@ -5,7 +5,7 @@ fo = open ("outs.txt", "w")
 for line in fi:
     line = line.rstrip("\n")
     if (line != ""):
-        fo.write("=HYPERLINK(\"" + line + "\", \"link\")\n")
+        fo.write("=HYPERLINK(\"" + line + "\", \"blog\")\n")
     else:
         fo.write("\n")
 

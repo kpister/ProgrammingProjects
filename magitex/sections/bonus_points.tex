@@ -1,0 +1,22 @@
+\section{Bonus Points}
+\label{bonus_points}
+
+Creating a usable dataset for my models to learn from
+was by far the hardest part of this project. Initially,
+I was able to work with a json file for all the card information;
+the difficulties arose when using the card images. No single
+site provides all 15GB of card images as a download, nor can 
+you find simple a simple API to make image requests. As a result,
+the images must be scraped off of gatherer.wizards.com, and cross
+corrolated with the json file for information. Furthermore, I 
+experimented with grabbing the prices of cards for an attempt to
+predict a card's price based on the card image. THERE ARE NO GOOD 
+OPTIONS FOR GETTING THE PRICE. Many card sale websites are faulty 
+and do not provide full pricing information on all cards; card prices
+are subject to change at a moments notice, so historical datasets are 
+irrelevant and not preserved; successful card sale sites hide the prices
+behind a locked API; price information is hidden in badly written html
+on hard to scrape websites. Despite this, I was able to acquire the price
+of 10,000 cards and attempted to run my model on the dataset. 
+
+I DON'T KNOW IF THIS WILL SUCCEED.

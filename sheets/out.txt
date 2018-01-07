@@ -1,0 +1,166 @@
+The Cool Team;Martz;Nick
+The Cool Team;Johnson;Lauren
+The Cool Team;Luc;Jenny
+The Better Cool Group;Amante;David
+The Better Cool Group;Zormeier;Ariana
+The Better Cool Group;Rios;Guillermo
+Team Logic;Campbell;Nicholas
+Team Logic;Qin;Nathaniel
+Team 1346;Chen;Alexander
+Team 1346;Boldbataar;Misheel
+Squad;Lee;Ellis
+Squad;Jones;Austin
+Squad;Rasque;Camdyn
+SKJ;Okumura;Kimiko
+SKJ;Lin;Jason
+sbwgg;Zhang;Ziliang
+sbwgg;Wu;Zhijian
+Puppers;Jang;Joel
+Puppers;Vincent;Vinh
+Puppers;Yoon;Christopher
+Prarthana, Haidang, Emi;Prashanth;Prarthana
+Prarthana, Haidang, Emi;Le;Haidang
+Prarthana, Haidang, Emi;Oda;Emi
+Octopus;Dhillon;Gurpreet
+Octopus;Cue;Timothy
+Octopus;Cruz;Jason
+Nari Kim Helen Kwon ;Kim;Nari
+Nari Kim Helen Kwon ;Kwon;Helen
+Kung Pao Chicken?;Phuong;Shaquile
+Kung Pao Chicken?;Tjong;Joshua
+Kung Pao Chicken?;Zeferino;Isaias
+JAT;Chan;Jessica
+JAT;Wang;Tianyi
+JAT;Silas;Akshatha
+Heather Ngo, Ellisa Lee, Jennifer Dich;Dich;Jennifer
+Heather Ngo, Ellisa Lee, Jennifer Dich;Ngo;Heather
+46;Marcellus;Tyler
+46;Narvasa;Rommel
+46;Zhang;Zhang
+The Raptors;Isaia;Marc
+The Raptors;Evans;Andrew
+Technopaths;Sheets;Martha
+Technopaths;Brauner;Abraham
+Technopaths;Chiang;Jasmine
+Squad-ies;Cibrian;Gaby
+Squad-ies;Chen;Ya-Han
+Squad-ies;Hardiman;Nikki
+Scrungo Beepis;Cindy;Yea-whei
+Scrungo Beepis;Chen;Julianne
+Scrungo Beepis;Chang;Ting-Yu
+Online Hangover;Tran;Steven
+Online Hangover;Schenone;Nicholas
+Online Hangover;Raphael;Marc
+NoName;Mares;Austin
+NoName;Somasundaram;Ansuman
+NoName;Chen;Qi
+Mighty Four;Wong;Jonathan
+Mighty Four;Li;Alex
+Mighty Four;Chung;Christian
+Let's Break It Down;Ona;Mike
+Let's Break It Down;Wong;Fiona
+Let's Break It Down;Yao;Junpeng
+JEF;Wong;Elise
+JEF;Zhong;Jiaqian
+JEF;Qian;Fan
+Hyper Active Monkeys;Kawakami;Azusa
+Hyper Active Monkeys;(Hunter);Kaiao
+HLV;Clark;Leilah
+HLV;Li;Han
+HLV;Pena;Vicente
+Group 14;Mo;Sharri
+Group 14;Yang;Eric
+Group 14;Fajardo;Anahi
+Cogs group 1;Narurkar;Ananya
+Cogs group 1;Takeda;Maxwell
+Cogs group 1;Thompson;Ria
+CDH;Doherty;Chris
+CDH;Jin;Hee
+CDH;Nobles;David
+Bradley Arca and Steven Chen;Arca;Bradley
+Bradley Arca and Steven Chen;Chen;Steven
+Antarctic Chimpanzees;Gutierrez;Zachariah
+Antarctic Chimpanzees;Chiang;Joeyi
+Antarctic Chimpanzees;Wong;Lindy
+123;Zhou;Chao
+123;Yu;Haoxiang
+The Not Geniuses;Koretke;Jeff
+The Not Geniuses;Doan;Egbert
+The Not Geniuses;Dang;Qingchen
+The Bee Stingers;Liao;Jeffrey
+The Bee Stingers;Preis;Anton
+The Bee Stingers;Zhang;Larry
+The A-Team;Steeley;Rachel
+The A-Team;Wade;Selina
+The A-Team;Yin;Felicity
+Rickard/Dawson;Rickard;Alexander
+Rickard/Dawson;Dawson;Michael
+Random Team Name;Kurth-Yontz;Lilyanne
+Random Team Name;Dahbour;Noor
+Random Team Name;Tolentino;Marjorie
+LocGaJi;Truong;Loc
+LocGaJi;Heitmann;Gabbi
+LocGaJi;Wang;Jiayi
+Jordan and da Gang;Fung;Michelle
+Jordan and da Gang;Osilaja;Olufisayo
+Jordan and da Gang;Sae;Jordan
+I suffer;Lodge;Georgia
+I suffer;Carpenter;Jordan
+I suffer;Wong;Monique
+GKW;wang;xinwen
+GKW;hye;joun,
+GKW;gu;wenhao
+Crawl;Alberts;Rachael
+Crawl;Li;Crystal
+Crawl;Wegznek;Rebecca
+Cogs is fun;Wu;Haoqi
+Cogs is fun;Sellers;Hunter
+Cogs is fun;Jiang;Xiaoquan
+Best Crew;Eric;Jan
+Best Crew;Shen;Mingqi
+Best Crew;Chung;Ezra
+Alex Lee;Lee;Alex
+Alex Lee;Tan;Brian
+Alex Lee;Seo;Jeoung
+ACS;Diamse;Abigail
+ACS;Austin;Sarah
+ACS;Wong;Christopher
+Turtles;Gallardo;David
+Turtles;Tran;Thomas
+Turtles;Zhong;Nianci
+Team David Mia;Han;Jun
+Team David Mia;Gonzalez-Maldonado;David
+Team David Mia;Neldner;Brent
+Starfish;Randall;Kristen
+Starfish;Arimoto;Natsuko
+Starfish;Chaname;Gabriella
+Staples;Huey;Zachary
+Staples;Park;Nathaniel
+Staples;Stamato;Catherine
+SD_Privacy;Lin;Zhentao
+SD_Privacy;Cao;Tianyi
+SD_Privacy;Zhao;Longsheng
+Oreos;Garrett;Patrick
+Oreos;Lee;Nathaniel
+Oreos;Reyna;Eder
+OreoNoodleBees;Zhu;Yuanhao
+OreoNoodleBees;Daley;Jordan
+OreoNoodleBees;Hsieh;Elaine
+Jeffrey's Jr. Jam Squad;Lightfoot;Charles
+Jeffrey's Jr. Jam Squad;Carrillo;Alberto
+Jeffrey's Jr. Jam Squad;Lee;Jeffrey
+Hydris;Reyes;Rachel
+Hydris;Wu;Jenny
+Hydris;Zhao;Emily
+distracted;Ho;Thong
+distracted;Won;Jeong
+distracted;Li;Yutan
+CinnaBunch;Menon;Elizabeth
+CinnaBunch;Chan;Eunice
+CinnaBunch;Xu;Lucy
+chicken nuggs;Liao;Rachel
+chicken nuggs;Nguyen;Nhu
+chicken nuggs;Al-jamaly;Hasan
+Aditya Srinivasan;Srinivasan;Aditya
+Aditya Srinivasan;Ramos;Angelica
+Aditya Srinivasan;Nguyen;Emily

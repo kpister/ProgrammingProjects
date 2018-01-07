@@ -1,0 +1,52 @@
+\documentclass[10pt,twocolumn]{article}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage[normalem]{ulem}
+\usepackage{titling}
+\usepackage[compact,nonindentfirst]{titlesec}
+\usepackage{balance}
+\usepackage{listings}
+\usepackage{mathtools}
+\usepackage{braket}
+
+\makeatletter
+\def\@maketitle{
+    \begin{center}
+        {\LARGE \@title \par}
+        \vskip 0.5em
+        {\large 
+            \lineskip 0.5em
+            \@author{Kaiser Pister} \par
+        }
+        \vskip 0.5em
+        {\bf \today}
+    \end{center}
+    \par
+    \vskip 0.3em
+}
+\makeatother
+
+\title{Magical Neural Networks (MNN)}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+    \input{sections/abstract}
+\end{abstract}
+
+\input{sections/intro}
+\input{sections/color_predicts}
+\input{sections/type_predicts}
+\input{sections/cnn_predicts}
+\input{sections/bonus_points}
+\input{sections/conclusion}
+\bibliographystyle{ieeetr}
+\bibliography{main}  
+\pagebreak
+\appendix
+\input{sections/architecture}
+
+\end{document}

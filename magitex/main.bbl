@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{deeplearning4j}
+D.~D. Team, ``Deeplearning4j: Open--source distributed deep learning for the
+  jvm.'' \url{http://deeplearning4j.org}, 2017.
+
+\bibitem{mtgjson}
+Sergio, ``Mtg json.'' \url{http://mtgjson.com}, 2017.
+
+\bibitem{pennington2014glove}
+J.~Pennington, R.~Socher, and C.~D. Manning, ``Glove: Global vectors for word
+  representation,'' in {\em Empirical Methods in Natural Language Processing
+  (EMNLP)}, pp.~1532--1543, 2014.
+
+\bibitem{gatherer}
+W.~of~the Coast~LLC, ``Gatherer database.'' \url{http://gatherer.wizards.com},
+  1995--2017.
+
+\bibitem{goldfish}
+MtGGoldfish, ``Card price list.'' \url{https://mtggoldfish.com/}, 2017.
+
+\end{thebibliography}
